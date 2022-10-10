@@ -15,7 +15,7 @@ $ docker-compose up --build
 After successful deployment, use a Rest API Client to call the app.
 
 ```
-Example 3:
+Example:
 
 endpoint:
     POST - http://localhost:3000/api/permutation/find
